@@ -14,7 +14,6 @@ Web3 Developer with strong skills in blockchain development and smart contracts.
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-red?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black)
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black)
